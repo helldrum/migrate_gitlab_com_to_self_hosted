@@ -1,7 +1,6 @@
 #!/usr/bin/env pipenv-shebang
 import os
 import gitlab
-import pprint
 
 
 def gitlab_instance(gitlab_url, private_token):
